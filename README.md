@@ -1,16 +1,21 @@
 # tab_bars
 
-A new Flutter project.
+## A TabBar Demo Project in Flutter
 
-## Getting Started
+i flowlloed <b> Johannes Milke </b> tutorial
 
-This project is a starting point for a Flutter application.
+There are two ways to create tabBar in flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### DefaultTabController
+- [DefaultTabController](https://github.com/mbganesh/TabBar-in-Flutter/blob/main/lib/screens/home_screen.dart)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Manual TabController
+- [CustomTabController](https://github.com/mbganesh/TabBar-in-Flutter/blob/main/lib/screens/home_screen_2.dart)
+
+
+
+
+
+
